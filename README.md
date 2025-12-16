@@ -1,7 +1,7 @@
-# OpenFast-DLC-Loop-Automation_Optimus_295_20_Hochschule-Flensburg
+# OpenFast-DLC-campain-Automator
 This tool is capable of running a complete loop of different DLC simulations in openfast simultaneously.
-in the link below you will find the files related to the Optimus project that the python script developed for
-https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20
+
+*Originally developed during the [Optimus 295-20 wind turbine project](https://github.com/WindEnergyEngineering/Optimus-295-20/tree/master/OpenFAST/Optimus-295-20) at Flensburg University of Applied Sciences,
 
 **running all DLCs together:**
 
