@@ -6,7 +6,7 @@ This tool is capable of running a complete loop of different DLC simulations in 
 
 **running all DLCs together:**
 
-1- you have to copy and paste the DLC12.py in each DLC directory seperetely.
+1- you have to copy and paste the OpenFAST-DLC-sampler-Automator.py in each DLC directory seperetely.
 
 2- Rename them according to the names of their related DLCs.
 
