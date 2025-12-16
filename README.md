@@ -60,3 +60,8 @@ Each DLC script can be generated and executed independently using the OpenFAST-D
 
 For detailed information on setup steps, please refer to the [OpenFAST-DLC-sampler-Automator
 ](https://github.com/Araz-m/OpenFAST-DLC-sampler-Automator/tree/main).
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
