@@ -55,13 +55,18 @@ Each DLC script can be generated and executed independently using the OpenFAST-D
 3. Update the paths in `FullyAutomate.py` to point to each DLC script directory.  
 4. Run the campaign
 
-
-
-
 For detailed information on setup steps, please refer to the [OpenFAST-DLC-Runner
 ](https://github.com/Araz-m/OpenFAST-DLC-Runner/tree/main).
+
+---
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
+## Author
+
+Developed by **Araz Hamayeli Mehrabani**  
+Flensburg University of Applied Sciences
