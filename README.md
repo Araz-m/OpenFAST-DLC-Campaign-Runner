@@ -30,7 +30,7 @@ This tool automates the process, allowing Different DLC simulations to execute s
 
 ## How It Works
 
-The main script (`FullyAutomate.py`) contains a predefined list of:
+The main script (`OpenFAST-DLC-Campaign-Runner.py`) contains a predefined list of:
 
 - DLC script filenames (e.g., `DLC51.py`, `DLC61.py`)  
 - Corresponding directories where each script is located  
@@ -43,7 +43,7 @@ Each DLC script can be generated and executed independently using the OpenFAST-D
 
 - Python 3.x  
 - OpenFAST installed and configured  
-- DLC automation scripts (e.g., generated with [OpenFAST-DLC-Runner](https://github.com/Araz-m/OpenFAST-DLC-sampler-Automator))  
+- DLC automation scripts (e.g., generated with [OpenFAST-DLC-Runner](https://github.com/Araz-m/OpenFAST-DLC-Runner))  
 - Windows environment (paths currently hard-coded)  
 
 ---
@@ -52,7 +52,7 @@ Each DLC script can be generated and executed independently using the OpenFAST-D
 
 1. Place a DLC runner script in each DLC directory.  
 2. Rename each script according to its corresponding DLC.  
-3. Update the paths in `FullyAutomate.py` to point to each DLC script directory.  
+3. Update the paths in `OpenFAST-DLC-Campaign-Runner.py` to point to each DLC script directory.  
 4. Run the campaign
 
 For detailed information on setup steps, please refer to the [OpenFAST-DLC-Runner
